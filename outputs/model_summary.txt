@@ -1,0 +1,4 @@
+Best model: Ensemble(RandomForest+RandomForest)
+Best accuracy: 0.8950
+Top_k genes: 200
+Search space size: 4
